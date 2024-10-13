@@ -1,1 +1,3 @@
 # GIThubTraining
+
+Some sample text
